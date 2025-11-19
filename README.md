@@ -1,1 +1,1 @@
-# ATM-Simulator-System-master2
+The ATM Simulator System is a simple project that mimics how a real ATM works. It allows a user to create an account and then perform everyday banking tasks like checking balance, withdrawing cash, depositing money, using fast-cash options, viewing a mini-statement, and changing their PIN. The project gives a realistic ATM experience in a safe, digital environment, helping users understand basic banking operations without using an actual ATM.
